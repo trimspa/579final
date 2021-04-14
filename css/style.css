@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@100&family=Carrois+Gothic+SC&family=Krub:wght@200&family=Russo+One&display=swap');
+
+body,h1,h2,h3,h4,h5,h6 {font-family: 'Carrois Gothic SC', sans-serif;}
+
+
+
+.container {
+  padding-top: 50px;
+  padding-left:  50px; 
+  max-width: 500px;
+  
+}
+
+#btn-click{
+  background-color: rgb(109, 85, 218);
+  
+}
+
+#btn-click:hover {
+  background-color: rgb(206, 23, 212);
+  color: #fff;
+  text-align: center;
+
+}
+
+.far {
+
+  color: yellowgreen;
+}
+
+#play-btn:hover {
+
+  background-color: rgb(206, 23, 212);
+  color: #fff;
+  text-align: center;
+
+}
+
+#play-btn {
+
+  background-color: rgb(109, 85, 218);
+}
+
+
